@@ -24,7 +24,7 @@ public class Gizmos implements MouseListener{
 		pane.add(panels, BorderLayout.CENTER);
 		            
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-		frame.setSize(400, 400);
+		frame.setSize(1920, 1080);
 		frame.setVisible(true);
 	}
 	@Override
