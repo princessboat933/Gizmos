@@ -203,8 +203,6 @@ public class GamePanel extends JPanel implements MouseListener
 		// TODO Auto-generated method stub
 		int x = e.getX();
 		int y = e.getY();
-		
-		System.out.println(x + " " + y);
 	}
 
 	@Override
