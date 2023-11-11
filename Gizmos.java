@@ -31,6 +31,7 @@ public class Gizmos implements MouseListener{
 	public void mouseClicked(MouseEvent e) {
 		int x = e.getX();
 		int y = e.getY();
+		System.out.println(x + " " + y);
 	}
 
 	@Override
